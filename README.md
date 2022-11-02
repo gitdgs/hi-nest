@@ -11,4 +11,7 @@ npm i -g @nestjs/cli
 #git repository생성
 > 
 > git remote add origin https://github.com/gitdgs/hi-nest.git
+
+#2-2
+npm i class-validator class-transformer
  
